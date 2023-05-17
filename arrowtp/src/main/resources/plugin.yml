@@ -1,0 +1,12 @@
+name: ArrowTP
+version: '${project.version}'
+main: com.hheylau.arrowtp.ArrowTP
+api-version: 1.19
+description: arrow teleport
+commands:
+  atp:
+    description: Arrow Teleport
+    usage: /<command>
+    aliases:
+      - arrow
+      - arrowtp

@@ -1,0 +1,11 @@
+name: ArrowTP
+version: '${project.version}'
+main: com.hheylau.arrowtp.Arrowtp
+api-version: 1.19
+description: Shoot Arrow to TP
+commands:
+  arrowsetup:
+    usage: /<commands> [on|off]
+    description: set arrowTP on or off
+    aliases:
+      - arr
